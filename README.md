@@ -1,4 +1,4 @@
-# SwingCoptersDemo
+# Swing Copters Demo
 
 Jave Me port of the popular Dong Nguyen's Swing Copters game
 

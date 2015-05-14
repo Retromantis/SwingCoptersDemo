@@ -10,4 +10,4 @@ supported screen resolutions: 240x320, 240x400, 320x240
 
 ===============================
 
-requires NikiniweME.jar library
+requires the NikuniweME.jar Java ME 2D game library
